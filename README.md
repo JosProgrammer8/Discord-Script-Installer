@@ -6,7 +6,7 @@ Este script instala Discord desde un archivo tar.gz y permite actualizaciones de
 
 1. **Haz el script ejecutable**:
 
-   Con el siguiente comando puedes :
+   Con el siguiente comando, puedes otorgar permisos:
 
    ```bash
    chmod +x install_discord.sh
