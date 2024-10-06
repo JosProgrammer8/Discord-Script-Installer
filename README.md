@@ -1,6 +1,6 @@
 # Discord-Script-Installer
 
-Este script instala la versión de Discord para Linux en formato tar.gz y permite actualizaciones de manera sencilla.
+Este script instala la versión de Discord para Linux en formato tar.gz y permite actualizar de manera sencilla.
 
 ## Recomendaciones
 
@@ -20,7 +20,7 @@ Este script instala la versión de Discord para Linux en formato tar.gz y permit
 
 2. **Actualizar Discord**:
 
-   Cuando haya una nueva versión de Discord, ejecuta el script nuevamente y descargara el archivo tar.gz correspondiente y remplazara el anterior carpeta de discord para actualizar Discord a la última versión.
+   Cuando haya una nueva versión de Discord, ejecuta el script nuevamente. esto descargara el archivo tar.gz nuevamente y remplazara la anterior carpeta de discord para actualizar a la última versión.
 
    ```bash
    ./update_discord.sh
